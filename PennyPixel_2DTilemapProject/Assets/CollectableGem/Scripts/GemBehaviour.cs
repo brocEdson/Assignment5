@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Broc Edson
+ * Assignment 5
+ * Manages the score
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
