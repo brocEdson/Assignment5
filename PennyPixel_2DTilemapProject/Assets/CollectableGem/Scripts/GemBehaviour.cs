@@ -1,6 +1,6 @@
 ﻿/* Broc Edson
  * Assignment 5
- * Manages the score
+ * Manages gem behaviour
  */
 using System.Collections;
 using System.Collections.Generic;
