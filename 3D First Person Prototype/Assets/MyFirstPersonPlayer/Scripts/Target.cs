@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Broc Edson
+ * Assignment 5
+ * Takes damage on hit and dies when health is gone
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

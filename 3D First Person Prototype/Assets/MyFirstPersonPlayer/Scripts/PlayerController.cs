@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Broc Edson
+ * Assignment 5
+ * Controls player movement
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
